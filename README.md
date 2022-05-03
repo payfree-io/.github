@@ -10,7 +10,7 @@ Links:
 
 ## actions
 
-* [.github/workflows/gradle-tasks]:
+* [.github/workflows/gradle-tasks](.github/workflows/gradle-tasks):
   * setting up java, validate gradle and calls some gradle tasks
   * usage-example:
     ```yml
@@ -34,4 +34,4 @@ Links:
 
 ## workflows
 ### gradle
- * [workflow-templates/gradle/pull-request.yml]: test and compile on pull request to master or main
+ * [workflow-templates/gradle/pull-request.yml](workflow-templates/gradle/pull-request.yml): test and compile on pull request to master or main
