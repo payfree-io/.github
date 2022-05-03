@@ -1,5 +1,5 @@
 name: "call gradle tasks"
-description: "checkout repo, setup java, validate gradle and call specified gradle task"
+description: "setup java, validate gradle and call specified gradle task"
 
 inputs:
   gradle-tasks:
