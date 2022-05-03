@@ -10,7 +10,7 @@ Links:
 
 ## actions
 
-* [.github/workflows/gradle-tasks](.github/workflows/gradle-tasks):
+* [.github/workflows/gradle-tasks.yml](.github/workflows/gradle-tasks.yml):
   * setting up java, validate gradle and calls some gradle tasks
   * usage-example:
     ```yml
