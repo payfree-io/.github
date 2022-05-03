@@ -1,0 +1,12 @@
+{
+    "name": "payfree pull-request workflow template",
+    "description": "compile and test on pull-request to master or main",
+    "categories": [
+        "gradle", "kotlin", "java"
+    ],
+    "filePatterns": [
+        "^build.gradle$",
+        "^build.gradle.kts$"
+    ]
+}
+

@@ -1,8 +1,16 @@
 Common GitHub configurations for the Payfree GitHub organization.
 
-# shared actions
+# Shared
 
-* .github/workflows/gradle-tasks:
+Links: 
+
+* [github docs](https://docs.github.com/en/actions/using-workflows/sharing-workflows-secrets-and-runners-with-your-organization):
+  * [shared actions](https://docs.github.com/en/actions/using-workflows/reusing-workflows)
+  * [starter workflows](https://docs.github.com/en/actions/using-workflows/creating-starter-workflows-for-your-organization)
+
+## actions
+
+* [.github/workflows/gradle-tasks]:
   * setting up java, validate gradle and calls some gradle tasks
   * usage-example:
     ```yml
@@ -23,3 +31,7 @@ Common GitHub configurations for the Payfree GitHub organization.
             with:
               gradle-tasks: build
     ```
+
+## workflows
+### gradle
+ * [workflow-templates/gradle/pull-request.yml]: test and compile on pull request to master or main
