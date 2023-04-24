@@ -2,7 +2,7 @@ name: compile-check on pull-request to master or main
 
 on:
   pull_request:
-    branches: [ master, main ]
+    branches: [ $default-branch ]
 
 jobs:
   build:
