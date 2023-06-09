@@ -1,3 +1,3 @@
 # Code review checklist
 
-- [ ] Task's ccceptance criteria fulfilled
+- [ ] Task's acceptance criteria fulfilled
