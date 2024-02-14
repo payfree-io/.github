@@ -1,4 +1,4 @@
-Common GitHub configurations for the Payfree GitHub organization.
+Common GitHub configurations for the payfree GitHub organization.
 
 # Shared
 
